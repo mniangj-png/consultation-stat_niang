@@ -1,7 +1,7 @@
 {
   "app_version": "2026-04-13d",
   "status": "draft",
-  "saved_at": "2026-05-07T08:15:31.504103Z",
+  "saved_at": "2026-05-07T08:20:53.611914Z",
   "language": "fr",
   "institution_acronym": "INS",
   "institution_type": "nso",
@@ -14,13 +14,13 @@
   "operational_usability": null,
   "operational_usability_why": "",
   "strategic_comments": "",
-  "domain_comments": "",
+  "domain_comments": "Au niveau de la Dimension D06, il convient d'introduire les indicateurs sur les acquis scolaires des élèves du primaire afin de mieux appréhender la qualité de l'éducation.",
   "priorities_to_strengthen": [],
-  "top_3_revisions": "",
+  "top_3_revisions": "Scinder la Dimension D08 en deux. Une dimension Egalité des genres et une autre autonomisation des femmes.",
   "final_institutional_position": null,
   "final_institutional_position_why": "",
   "draft_token": "38DD5C5A",
-  "current_step": 2,
+  "current_step": 3,
   "respondent_key": "biguire-ins-ne-05B4EA853179",
   "is_test_email": false,
   "strategic_prioritization_criteria": "go",
@@ -53,8 +53,8 @@
   "domain_d06_why": "",
   "domain_d07": "go",
   "domain_d07_why": "",
-  "domain_d08": "go_with_reservations",
-  "domain_d08_why": "Les données sur certains indicateurs choisis dans ce domaine de l'égalité des genres ne sont pas disponibles. En revanche, au niveau de l'autonomisation, il existe relativement davantage de données.",
+  "domain_d08": "no_go",
+  "domain_d08_why": "Les données sur certains indicateurs choisis dans ce domaine de l'égalité des genres ne sont pas disponibles. En revanche, au niveau de l'autonomisation, il existe relativement davantage de données. Il faudra scinder cette dimension en deux : une dimension égalité des genres et une autre autonomisation des femmes.",
   "domain_d09": "go",
   "domain_d09_why": "",
   "domain_d10": "no_opinion",
@@ -63,5 +63,5 @@
   "domain_d11_why": "",
   "domain_d12": "go",
   "domain_d12_why": "",
-  "expires_at": "2026-05-09T08:15:31.504192Z"
+  "expires_at": "2026-05-09T08:20:53.612017Z"
 }
