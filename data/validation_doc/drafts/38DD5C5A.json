@@ -1,7 +1,7 @@
 {
   "app_version": "2026-04-13d",
   "status": "draft",
-  "saved_at": "2026-05-07T08:22:54.847274Z",
+  "saved_at": "2026-05-07T08:23:15.684032Z",
   "language": "fr",
   "institution_acronym": "INS",
   "institution_type": "nso",
@@ -20,7 +20,7 @@
   "final_institutional_position": null,
   "final_institutional_position_why": "",
   "draft_token": "38DD5C5A",
-  "current_step": 4,
+  "current_step": 3,
   "respondent_key": "biguire-ins-ne-05B4EA853179",
   "is_test_email": false,
   "strategic_prioritization_criteria": "go",
@@ -63,5 +63,5 @@
   "domain_d11_why": "",
   "domain_d12": "go",
   "domain_d12_why": "",
-  "expires_at": "2026-05-09T08:22:54.847411Z"
+  "expires_at": "2026-05-09T08:23:15.684196Z"
 }
